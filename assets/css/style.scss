@@ -1,8 +1,5 @@
----
----
-
 @import "{{ site.theme }}";
 
-.footer {
-  display: none;
+.site-footer-credits {
+  display: none !important;
 }
