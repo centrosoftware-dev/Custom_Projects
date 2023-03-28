@@ -92,40 +92,40 @@
 (torna all'[indice](#indice))
 
 ---
-{{ site.content.bp_alfa-service_text }}
+{{ site.content.bp_alfaservice_text }}
 {{ site.content.bp_analytic_text }}
 {{ site.content.bp_Antys_text }}
 {{ site.content.bp_axima_text }}
-{{ site.content.bp_bit-time-software_text }}
-{{ site.content.bp_bms-software_text }}
+{{ site.content.bp_bittimesoftware_text }}
+{{ site.content.bp_bmssoftware_text }}
 {{ site.content.bp_divinformatica_text }}
 {{ site.content.bp_dse_text }}
 {{ site.content.bp_datacom_text }}
-{{ site.content.bp_delphi-studio-sl_text }}
+{{ site.content.bp_delphistudiosl_text }}
 {{ site.content.bp_diesse_text }}
-{{ site.content.bp_doee-consulting-srl_text }}
+{{ site.content.bp_doeeconsultingsrl_text }}
 {{ site.content.bp_empirical_text }}
 {{ site.content.bp_enter_text }}
-{{ site.content.bp_eurodata-2000_text }}
-{{ site.content.bp_ferraris-c_text }}
-{{ site.content.bp_fusion-trade_text }}
-{{ site.content.bp_informa-24_text }}
+{{ site.content.bp_eurodata2000_text }}
+{{ site.content.bp_ferrarisc_text }}
+{{ site.content.bp_fusiontrade_text }}
+{{ site.content.bp_informa24_text }}
 {{ site.content.bp_infotel_text }}
 {{ site.content.bp_innoova_text }}
 {{ site.content.bp_isc_text }}
-{{ site.content.bp_kai-solution_text }}
-{{ site.content.bp_maccarini-marico-angelo-c_text }}
+{{ site.content.bp_kaisolution_text }}
+{{ site.content.bp_maccarinimaricoangeloc_text }}
 {{ site.content.bp_magicstore_text }}
-{{ site.content.bp_pinewood-consulting_text }}
-{{ site.content.bp_progres-informatica_text }}
+{{ site.content.bp_pinewoodconsulting_text }}
+{{ site.content.bp_progresinformatica_text }}
 {{ site.content.bp_sefin_text }}
-{{ site.content.bp_sinergy-studio_text }}
+{{ site.content.bp_sinergystudio_text }}
 {{ site.content.bp_sintronic_text }}
 {{ site.content.bp_sisolution_text }}
-{{ site.content.bp_sys-dat-verona-srl_text }}
+{{ site.content.bp_sysdatveronasrl_text }}
 {{ site.content.bp_tad_text }}
-{{ site.content.bp_thema-software_text }}
+{{ site.content.bp_themasoftware_text }}
 {{ site.content.bp_ubiqua_text }}
 {{ site.content.bp_w4y_text }}
-{{ site.content.bp_x-soft_text }}
+{{ site.content.bp_xsoft_text }}
 
