@@ -21,8 +21,8 @@
 
 | Titolo | Owner | | | |
 | - | - | - | - | - |
-| **Importazione Cambi dalla Banca d'Italia** | **Centro Software** | {{ site.content.star2 }} | [Scheda](./ant_cambibankitalia.md) | [&#x1f855;](https://github.com/centrosoftware-dev/Custom_Projects_Details/blob/main/contenuto_cambibankitalia.md)|
-| **Gestione Corsi e Prenotazione Corsisti** | **Centro Software** | {{ site.content.star3 }} | [Scheda](./ant_gestionecorsi.md) | [&#x1f855;](https://github.com/centrosoftware-dev/Custom_Projects_Details/blob/main/contenuto_gestionecorsi.md) |
+| **Importazione Cambi dalla Banca d'Italia** | Centro Software | {{ site.content.star2 }} | [Scheda](./ant_cambibankitalia.md) | [&#x1f855;](https://github.com/centrosoftware-dev/Custom_Projects_Details/blob/main/contenuto_cambibankitalia.md)|
+| **Gestione Corsi e Prenotazione Corsisti** | Centro Software | {{ site.content.star3 }} | [Scheda](./ant_gestionecorsi.md) | [&#x1f855;](https://github.com/centrosoftware-dev/Custom_Projects_Details/blob/main/contenuto_gestionecorsi.md) |
 
 
 (torna all'[indice](#indice))
@@ -31,21 +31,21 @@
 
 | Titolo | Owner | | | |
 | - | - | - | - | - |
-| **Importazione Cambi dalla Banca d'Italia**             | **Centro Software** | {{ site.content.star2 }} | [Scheda](./ant_cambibankitalia.md)           | [&#x1f855;](https://github.com/centrosoftware-dev/Custom_Projects_Details/blob/main/contenuto_cambibankitalia.md)|
-| **Gestione Corsi e Prenotazione Corsisti**              | **Centro Software** | {{ site.content.star1 }} | [Scheda](./ant_gestionecorsi.md)             | [&#x1f855;](https://github.com/centrosoftware-dev/Custom_Projects_Details/blob/main/contenuto_gestionecorsi.md) |
-| **Interfacciamento Arxivar**                            | **Centro Software** | {{ site.content.star5 }} | [Scheda](./ant_arxivar.md)                   | [&#x1f855;](https://github.com/centrosoftware-dev/Custom_Projects_Details/blob/main/contenuto_arxivar.md) 
-| **Logica di Maggiorazione Calcolo MRP**                 | **Centro Software** | {{ site.content.star4 }} | [Scheda](./ant_maggiorazioneMRP.md)          | [&#x1f855;](https://github.com/centrosoftware-dev/Custom_Projects_Details/blob/main/contenuto_maggiorazioneMRP.md) |
-| **Simulatore Costi Industriali da Configuratore Costi** | **Centro Software** | {{ site.content.star4 }} | [Scheda](./ant_SimulatConfigurCosti.md)      | [&#x1f855;](https://github.com/centrosoftware-dev/Custom_Projects_Details/blob/main/contenuto_SimulatConfigurCosti.md) |
-| **Estensione Campi Personalizzati**                     | **Centro Software** | {{ site.content.star2 }} | [Scheda](./ant_campipersonalizzati.md)       | [&#x1f855;](https://github.com/centrosoftware-dev/Custom_Projects_Details/blob/main/contenuto_campipersonalizzati.md) |
-| **Interfacciamenti PLM**                                | **Centro Software** | {{ site.content.star2 }} | [Scheda](./ant_interfacciamentiPLM.md)       | [&#x1f855;](https://github.com/centrosoftware-dev/Custom_Projects_Details/blob/main/contenuto_interfacciamentiPLM.md) |
-| **Interfaccimaneti PDM**                                | **Centro Software** | {{ site.content.star2 }} | [Scheda](./ant_interfacciamentiPDM.md)       | [&#x1f855;](https://github.com/centrosoftware-dev/Custom_Projects_Details/blob/main/contenuto_interfacciamentiPDM.md) |
-| **Gestione Contratti di Vendita**                       | **Centro Software** | {{ site.content.star1 }} | [Scheda](./ant_gestionecontrattivendita.md)  | [&#x1f855;](https://github.com/centrosoftware-dev/Custom_Projects_Details/blob/main/contenuto_gestionecontrattivendita.md) |
-| **Gestione Direttiva Reach**                            | **Centro Software** | {{ site.content.star1 }} | [Scheda](./ant_gestionedirettivaREACH.md)    | [&#x1f855;](https://github.com/centrosoftware-dev/Custom_Projects_Details/blob/main/contenuto_gestionedirettivaREACH.md) |
-| **Interfacciamento Piattaforma Logistica STEF**         | **Centro Software** | {{ site.content.star1 }} | [Scheda](./ant_interfacciaSTEF.md)           | [&#x1f855;](https://github.com/centrosoftware-dev/Custom_Projects_Details/blob/main/contenuto_interfacciaSTEF.md) |
-| **Gestione NUMOP a N. 9 Caratteri**                     | **Centro Software** | {{ site.content.star2 }} | [Scheda](./ant_numOP9.md)                    | [&#x1f855;](https://github.com/centrosoftware-dev/Custom_Projects_Details/blob/main/contenuto_numOP9.md) |
-| **Interfaccia INKMAKER 4.0**                            | **Centro Software** | {{ site.content.star2 }} | [Scheda](./ant_interfacciainkmaker.md)       | [&#x1f855;](https://github.com/centrosoftware-dev/Custom_Projects_Details/blob/main/contenuto_interfacciainkmaker.md) |
-| **Codificatore Automatico Articoli**                    | **Centro Software** | {{ site.content.star2 }} | [Scheda](./ant_condificatoreautomaticoart.md)| [&#x1f855;](https://github.com/centrosoftware-dev/Custom_Projects_Details/blob/main/contenuto_condificatoreautomaticoart.md) |
-| **Test plugin BP** | <a href="https://www.centrosoftware.com/alfa-service"><img height="40px" src="https://www.centrosoftware.com/sites/default/files/images/partner_alfaservice.png" /></a> | {{ site.content.star5 }} | | |
+| **Importazione Cambi dalla Banca d'Italia**             | Centro Software | {{ site.content.star2 }} | [Scheda](./ant_cambibankitalia.md)           | [&#x1f855;](https://github.com/centrosoftware-dev/Custom_Projects_Details/blob/main/contenuto_cambibankitalia.md)|
+| **Gestione Corsi e Prenotazione Corsisti**              | Centro Software | {{ site.content.star1 }} | [Scheda](./ant_gestionecorsi.md)             | [&#x1f855;](https://github.com/centrosoftware-dev/Custom_Projects_Details/blob/main/contenuto_gestionecorsi.md) |
+| **Interfacciamento Arxivar**                            | Centro Software | {{ site.content.star5 }} | [Scheda](./ant_arxivar.md)                   | [&#x1f855;](https://github.com/centrosoftware-dev/Custom_Projects_Details/blob/main/contenuto_arxivar.md) 
+| **Logica di Maggiorazione Calcolo MRP**                 | Centro Software | {{ site.content.star4 }} | [Scheda](./ant_maggiorazioneMRP.md)          | [&#x1f855;](https://github.com/centrosoftware-dev/Custom_Projects_Details/blob/main/contenuto_maggiorazioneMRP.md) |
+| **Simulatore Costi Industriali da Configuratore Costi** | Centro Software | {{ site.content.star4 }} | [Scheda](./ant_SimulatConfigurCosti.md)      | [&#x1f855;](https://github.com/centrosoftware-dev/Custom_Projects_Details/blob/main/contenuto_SimulatConfigurCosti.md) |
+| **Estensione Campi Personalizzati**                     | Centro Software | {{ site.content.star2 }} | [Scheda](./ant_campipersonalizzati.md)       | [&#x1f855;](https://github.com/centrosoftware-dev/Custom_Projects_Details/blob/main/contenuto_campipersonalizzati.md) |
+| **Interfacciamenti PLM**                                | Centro Software | {{ site.content.star2 }} | [Scheda](./ant_interfacciamentiPLM.md)       | [&#x1f855;](https://github.com/centrosoftware-dev/Custom_Projects_Details/blob/main/contenuto_interfacciamentiPLM.md) |
+| **Interfaccimaneti PDM**                                | Centro Software | {{ site.content.star2 }} | [Scheda](./ant_interfacciamentiPDM.md)       | [&#x1f855;](https://github.com/centrosoftware-dev/Custom_Projects_Details/blob/main/contenuto_interfacciamentiPDM.md) |
+| **Gestione Contratti di Vendita**                       | Centro Software | {{ site.content.star1 }} | [Scheda](./ant_gestionecontrattivendita.md)  | [&#x1f855;](https://github.com/centrosoftware-dev/Custom_Projects_Details/blob/main/contenuto_gestionecontrattivendita.md) |
+| **Gestione Direttiva Reach**                            | Centro Software | {{ site.content.star1 }} | [Scheda](./ant_gestionedirettivaREACH.md)    | [&#x1f855;](https://github.com/centrosoftware-dev/Custom_Projects_Details/blob/main/contenuto_gestionedirettivaREACH.md) |
+| **Interfacciamento Piattaforma Logistica STEF**         | Centro Software | {{ site.content.star1 }} | [Scheda](./ant_interfacciaSTEF.md)           | [&#x1f855;](https://github.com/centrosoftware-dev/Custom_Projects_Details/blob/main/contenuto_interfacciaSTEF.md) |
+| **Gestione NUMOP a N. 9 Caratteri**                     | Centro Software | {{ site.content.star2 }} | [Scheda](./ant_numOP9.md)                    | [&#x1f855;](https://github.com/centrosoftware-dev/Custom_Projects_Details/blob/main/contenuto_numOP9.md) |
+| **Interfaccia INKMAKER 4.0**                            | Centro Software | {{ site.content.star2 }} | [Scheda](./ant_interfacciainkmaker.md)       | [&#x1f855;](https://github.com/centrosoftware-dev/Custom_Projects_Details/blob/main/contenuto_interfacciainkmaker.md) |
+| **Codificatore Automatico Articoli**                    | Centro Software | {{ site.content.star2 }} | [Scheda](./ant_condificatoreautomaticoart.md)| [&#x1f855;](https://github.com/centrosoftware-dev/Custom_Projects_Details/blob/main/contenuto_condificatoreautomaticoart.md) |
+| **Test plugin BP** | {{ site.content.bp_innoova_text }} | {{ site.content.star5 }} | | |
 
 (torna all'[indice](#indice))
 
@@ -78,54 +78,18 @@
 
 | Titolo | Owner | | | |
 | - | - | - | - | - |
-| **EDI (Electronic Data Interchange)**       | **Centro Software** | {{ site.content.star1 }} | | |
-| **SDDS (SAM Data Distribution System)**     | **Centro Software** | {{ site.content.star1 }} | | |
-| **Gestione Noli**                           | **Centro Software** | {{ site.content.star1 }} | | |
-| **XML Import**                              | **Centro Software** | {{ site.content.star1 }} | | |
-| **Interfacciamento Magazzini Automatici**   | **Centro Software** | {{ site.content.star1 }} | | |
-| **PDM Connector**                           | **Centro Software** | {{ site.content.star1 }} | | |
-| **Master Data**                             | **Centro Software** | {{ site.content.star1 }} | | |
+| **EDI (Electronic Data Interchange)**       | Centro Software | {{ site.content.star1 }} | | |
+| **SDDS (SAM Data Distribution System)**     | Centro Software | {{ site.content.star1 }} | | |
+| **Gestione Noli**                           | Centro Software | {{ site.content.star1 }} | | |
+| **XML Import**                              | Centro Software | {{ site.content.star1 }} | | |
+| **Interfacciamento Magazzini Automatici**   | Centro Software | {{ site.content.star1 }} | | |
+| **PDM Connector**                           | Centro Software | {{ site.content.star1 }} | | |
+| **Master Data**                             | Centro Software | {{ site.content.star1 }} | | |
 
 
 
 
 (torna all'[indice](#indice))
 
----
-{{ site.content.bp_alfaservice_text }}
-{{ site.content.bp_analytic_text }}
-{{ site.content.bp_Antys_text }}
-{{ site.content.bp_axima_text }}
-{{ site.content.bp_bittimesoftware_text }}
-{{ site.content.bp_bmssoftware_text }}
-{{ site.content.bp_divinformatica_text }}
-{{ site.content.bp_dse_text }}
-{{ site.content.bp_datacom_text }}
-{{ site.content.bp_delphistudiosl_text }}
-{{ site.content.bp_diesse_text }}
-{{ site.content.bp_doeeconsultingsrl_text }}
-{{ site.content.bp_empirical_text }}
-{{ site.content.bp_enter_text }}
-{{ site.content.bp_eurodata2000_text }}
-{{ site.content.bp_ferrarisc_text }}
-{{ site.content.bp_fusiontrade_text }}
-{{ site.content.bp_informa24_text }}
-{{ site.content.bp_infotel_text }}
-{{ site.content.bp_innoova_text }}
-{{ site.content.bp_isc_text }}
-{{ site.content.bp_kaisolution_text }}
-{{ site.content.bp_maccarinimaricoangeloc_text }}
-{{ site.content.bp_magicstore_text }}
-{{ site.content.bp_pinewoodconsulting_text }}
-{{ site.content.bp_progresinformatica_text }}
-{{ site.content.bp_sefin_text }}
-{{ site.content.bp_sinergystudio_text }}
-{{ site.content.bp_sintronic_text }}
-{{ site.content.bp_sisolution_text }}
-{{ site.content.bp_sysdatveronasrl_text }}
-{{ site.content.bp_tad_text }}
-{{ site.content.bp_themasoftware_text }}
-{{ site.content.bp_ubiqua_text }}
-{{ site.content.bp_w4y_text }}
-{{ site.content.bp_xsoft_text }}
+
 
