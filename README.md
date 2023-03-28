@@ -3,26 +3,52 @@
 
 #### Indice
 
-- [Area BASE](#area-base)
-- [Area PRODUZIONE](#area-produzione)
+- [01 Area Work Flow e Dati Comuni](#01-area-work-flow-e-dati-comuni)
+- [02 AREA CRM (Attività PREVENDITA e Assistenza POST-VENDITA)](#02-area-crm-attività-prevendita-e-assistenza-post-vendita)
+- [03 AREA COMMERCIALE](#03-area-commerciale)
+- [04 AREA ACQUISTI, Gest. SCORTE, LOGISTICA](#04-area-acquisti-gest-scorte-logistica)
+- [05 AREA PRODUZIONE](#05-area-produzione)
+- [06 AREA QUALITA'](#06-area-qualita)
+- [07 AREA AMMINISTRATIVA e FINANZIARIA](#07-area-amministrativa-e-finanziaria)
+- [08 AREA CONTAB. ANALITICA e CONTROLLO di GESTIONE](#08-area-contab-analitica-e-controllo-di-gestione)
+- [09 Area Intercompany, Filiali Estere e Comunicazioni](#09-area-intercompany-filiali-estere-e-comunicazioni)
+- [10 Area Sicurezza e Strumenti di Sviluppo](#10-area-sicurezza-e-strumenti-di-sviluppo)
+- [TOOLS](#tools)
 
 
 
-
-## Area BASE
-
-(torna all'[indice](#indice))
-
-
-## Area PRODUZIONE
-
+## 01 Area Work Flow e Dati Comuni
 | Titolo | Owner | | | |
 | - | - | - | - | - |
-| **Importazione Cambi dalla Banca d'Italia** | **CSW** | {{ site.content.star2 }} | [Scheda](./ant_cambibankitalia.md) | [&#x1f855;](https://github.com/centrosoftware-dev/Custom_Projects_Details/blob/main/contenuto_cambibankitalia.md)|
-| **Gestione Corsi e Prenotazione Corsisti** | **CSW** | <span style='color:red;'>&#x2B24;&#x2B24;&#x2B24;</span><span style='color:#cccccc;'>&#x2B24;&#x2B24;</span> | [Scheda](./ant_gestionecorsi.md) | [&#x1f855;](https://github.com/centrosoftware-dev/Custom_Projects_Details/blob/main/contenuto_gestionecorsi.md) |
-
+| **Importazione Cambi dalla Banca d'Italia** | **Centro Software** | {{ site.content.star2 }} | [Scheda](./ant_cambibankitalia.md) | [&#x1f855;](https://github.com/centrosoftware-dev/Custom_Projects_Details/blob/main/contenuto_cambibankitalia.md)|
+| **Gestione Corsi e Prenotazione Corsisti** | **Centro Software** | {{ site.content.star3 }} | [Scheda](./ant_gestionecorsi.md) | [&#x1f855;](https://github.com/centrosoftware-dev/Custom_Projects_Details/blob/main/contenuto_gestionecorsi.md) |
 
 (torna all'[indice](#indice))
+
+## 02 AREA CRM (Attività PREVENDITA e Assistenza POST-VENDITA)
+(torna all'[indice](#indice))
+## 03 AREA COMMERCIALE
+(torna all'[indice](#indice))
+## 04 AREA ACQUISTI, Gest. SCORTE, LOGISTICA
+(torna all'[indice](#indice))
+## 05 AREA PRODUZIONE
+(torna all'[indice](#indice))
+## 06 AREA QUALITA'
+(torna all'[indice](#indice))
+## 07 AREA AMMINISTRATIVA e FINANZIARIA
+(torna all'[indice](#indice))
+## 08 AREA CONTAB. ANALITICA e CONTROLLO di GESTIONE
+(torna all'[indice](#indice))
+## 09 Area Intercompany, Filiali Estere e Comunicazioni
+(torna all'[indice](#indice))
+## 10 Area Sicurezza e Strumenti di Sviluppo
+(torna all'[indice](#indice))
+
+
+## TOOLS
+
+(torna all'[indice](#indice))
+
 
 ---
 
