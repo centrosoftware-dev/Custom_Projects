@@ -18,32 +18,42 @@
 
 
 ## 01 Area Work Flow e Dati Comuni
+
 | Titolo | Owner | | | |
 | - | - | - | - | - |
 | **Importazione Cambi dalla Banca d'Italia** | **Centro Software** | {{ site.content.star2 }} | [Scheda](./ant_cambibankitalia.md) | [&#x1f855;](https://github.com/centrosoftware-dev/Custom_Projects_Details/blob/main/contenuto_cambibankitalia.md)|
 | **Gestione Corsi e Prenotazione Corsisti** | **Centro Software** | {{ site.content.star3 }} | [Scheda](./ant_gestionecorsi.md) | [&#x1f855;](https://github.com/centrosoftware-dev/Custom_Projects_Details/blob/main/contenuto_gestionecorsi.md) |
 
+
 (torna all'[indice](#indice))
 
 ## 02 AREA CRM (Attività PREVENDITA e Assistenza POST-VENDITA)
+
 (torna all'[indice](#indice))
 ## 03 AREA COMMERCIALE
+
 (torna all'[indice](#indice))
 ## 04 AREA ACQUISTI, Gest. SCORTE, LOGISTICA
+
 (torna all'[indice](#indice))
 ## 05 AREA PRODUZIONE
+
 (torna all'[indice](#indice))
 ## 06 AREA QUALITA'
+
 (torna all'[indice](#indice))
 ## 07 AREA AMMINISTRATIVA e FINANZIARIA
+
 (torna all'[indice](#indice))
 ## 08 AREA CONTAB. ANALITICA e CONTROLLO di GESTIONE
+
 (torna all'[indice](#indice))
 ## 09 Area Intercompany, Filiali Estere e Comunicazioni
+
 (torna all'[indice](#indice))
 ## 10 Area Sicurezza e Strumenti di Sviluppo
-(torna all'[indice](#indice))
 
+(torna all'[indice](#indice))
 
 ## TOOLS
 
