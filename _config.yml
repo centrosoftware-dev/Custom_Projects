@@ -5,6 +5,7 @@ github:
   is_project_page: false
 
 content:
+  star0: <span style='color:#159957;'></span><span style='color:#cccccc;'>&#x2B24;&#x2B24;&#x2B24;&#x2B24;&#x2B24;</span>
   star1: <span style='color:#159957;'>&#x2B24;</span><span style='color:#cccccc;'>&#x2B24;&#x2B24;&#x2B24;&#x2B24;</span>
   star2: <span style='color:#159957;'>&#x2B24;&#x2B24;</span><span style='color:#cccccc;'>&#x2B24;&#x2B24;&#x2B24;</span>
   star3: <span style='color:#159957;'>&#x2B24;&#x2B24;&#x2B24;</span><span style='color:#cccccc;'>&#x2B24;&#x2B24;</span>
