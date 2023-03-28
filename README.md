@@ -1,4 +1,37 @@
+----
+star1:
+star2:
+star3:
+star4:
+star5:
+----
+
 # Esperienze Custom Significative
+
+#### Indice
+
+- [Area BASE](#area-base)
+- [Area PRODUZIONE](#area-produzione)
+
+
+
+
+## Area BASE
+
+(torna all'[indice](#indice))
+
+
+## Area PRODUZIONE
+
+| Titolo | Owner | | | |
+| - | - | - | - | - |
+| **Importazione Cambi dalla Banca d'Italia** | **CSW** | {{ site.content.star2 }} | [Scheda](./ant_cambibankitalia.md) | [&#x1f855;](https://github.com/centrosoftware-dev/Custom_Projects_Details/blob/main/contenuto_cambibankitalia.md)|
+| **Gestione Corsi e Prenotazione Corsisti** | **CSW** | <span style='color:red;'>&#x2B24;&#x2B24;&#x2B24;</span><span style='color:#cccccc;'>&#x2B24;&#x2B24;</span> | [Scheda](./ant_gestionecorsi.md) | [&#x1f855;](https://github.com/centrosoftware-dev/Custom_Projects_Details/blob/main/contenuto_gestionecorsi.md) |
+
+
+(torna all'[indice](#indice))
+
+---
 
 | Titolo                         |                 |                                                                                           |
 |--------------------------------|--------------------------|----------------------------------------------------------------------------------------------------|

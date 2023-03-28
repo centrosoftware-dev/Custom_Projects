@@ -3,3 +3,10 @@ title: Esperienze Custom Significative
 
 github:
   is_project_page: false
+
+content:
+  star1: <span style='color:red;'>&#x2B24;</span><span style='color:#cccccc;'>&#x2B24;&#x2B24;&#x2B24;&#x2B24;</span>
+  star2: <span style='color:red;'>&#x2B24;&#x2B24;</span><span style='color:#cccccc;'>&#x2B24;&#x2B24;&#x2B24;</span>
+  star3: <span style='color:red;'>&#x2B24;&#x2B24;&#x2B24;</span><span style='color:#cccccc;'>&#x2B24;&#x2B24;</span>
+  star4: <span style='color:red;'>&#x2B24;&#x2B24;&#x2B24;&#x2B24;</span><span style='color:#cccccc;'>&#x2B24;</span>
+  star5: <span style='color:red;'>&#x2B24;&#x2B24;&#x2B24;&#x2B24;&#x2B24;</span><span style='color:#cccccc;'></span>
