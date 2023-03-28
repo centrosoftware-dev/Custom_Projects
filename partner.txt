@@ -1,0 +1,295 @@
+<p><a name="alfaservice" id="alfaservice"></a></p>
+<h3><a href="https://www.centrosoftware.com/alfa-service">Alfa Service </a></h3>
+<a href="https://www.centrosoftware.com/alfa-service"><img src="https://www.centrosoftware.com/sites/default/files/images/partner_alfaservice.png" /></a>
+
+<p><a name="analytic" id="analytic"></a></p>
+<h3><a href="https://www.centrosoftware.com/analytic">Analytic</a></h3>
+<a href="https://www.centrosoftware.com/analytic"><img src="https://www.centrosoftware.com/sites/default/files/images/partner_analytic.png" /></a>
+
+<p><a name="antys" id="antys"></a></p>
+<h3><a href="https://www.centrosoftware.com/Antys">Antys</a></h3>
+<a href="https://www.centrosoftware.com/Antys"><img src="https://www.centrosoftware.com/sites/default/files/images/partner_antys.png" /></a>
+
+<p><a name="axima" id="axima"></a></p>
+<h3><a href="https://www.centrosoftware.com/axima">Axima</a></h3>
+<a href="https://www.centrosoftware.com/axima"><img src="https://www.centrosoftware.com/sites/default/files/images/partner_axima.png" /></a>
+
+<p><a name="Bit Time Software" id="Bit Time Software"></a></p>
+<h3><a href="https://www.centrosoftware.com/bit-time-software">Bit Time Software</a></h3>
+<a href="https://www.centrosoftware.com/bit-time-software"><img src="https://www.centrosoftware.com/sites/default/files/images/cropped-logo_bittime_software_1024_364.png" /></a>
+
+<p><a name="bms" id="bms"></a></p>
+<h3><a href="https://www.centrosoftware.com/bms-software">BMS Software</a></h3>
+<a href="https://www.centrosoftware.com/bms-software"><img src="https://www.centrosoftware.com/sites/default/files/partner/BMS-black.png" /></a>
+
+<p><a name="divinformatica" id="divinformatica"></a></p>
+<h3><a href="https://www.centrosoftware.com/divinformatica">D.I.V. Informatica</a></h3>
+<a href="https://www.centrosoftware.com/divinformatica"><img src="https://www.centrosoftware.com/sites/default/files/images/partner_divinformatica.png" /></a>
+
+<p><a name="dse" id="dse"></a></p>
+<h3><a href="https://www.centrosoftware.com/dse">D.S.E.</a></h3>
+<a href="https://www.centrosoftware.com/dse"><img src="https://www.centrosoftware.com/sites/default/files/images/partner_dse.png" /></a>
+
+<p><a name="Datacom" id="Datacom"></a></p>
+<h3><a href="https://www.centrosoftware.com/datacom">Datacom</a></h3>
+<a href="https://www.centrosoftware.com/datacom"><img src="https://www.centrosoftware.com/sites/default/files/images/partner_datacom.png" /></a>
+
+<p><a name="Delphi Studio SL" id="Delphi Studio SL"></a></p>
+<h3><a href="https://www.centrosoftware.com/delphi-studio-sl">Delphi Studio SL</a></h3>
+<a href="https://www.centrosoftware.com/delphi-studio-sl"><img src="https://www.centrosoftware.com/sites/default/files/partner/logo-Delphi-Studio-768x130.jpg" /></a>
+
+<p><a name="diesse" id="diesse"></a></p>
+<h3><a href="https://www.centrosoftware.com/diesse">Diesse </a></h3>
+<a href="https://www.centrosoftware.com/diesse"><img src="https://www.centrosoftware.com/sites/default/files/images/partner_diesse.png" style="margin-top: 30px; margin-bottom: 30px;" /></a>
+
+<p><a name="doee-consulting-srl" id="doee-consulting-srl"></a></p>
+<h3><a href="https://www.centrosoftware.com/doee-consulting-srl">Doee Consulting S.r.l.</a></h3>
+<a href="https://www.centrosoftware.com/doee-consulting-srl"><img src="https://www.centrosoftware.com/sites/default/files/images/logo-doee-consulting.png" style="margin-top: 30px; margin-bottom: 30px;" /></a>
+
+<p><a name="empirical" id="empirical"></a></p>
+<h3><a href="https://www.centrosoftware.com/empirical">Empirical</a></h3>
+<a href="https://www.centrosoftware.com/empirical"><img src="https://www.centrosoftware.com/sites/default/files/images/partner_empirical.png" /></a>
+
+<p><a name="enter" id="enter"></a></p>
+<h3><a href="https://www.centrosoftware.com/enter">Enter</a></h3>
+<a href="https://www.centrosoftware.com/enter"><img src="https://www.centrosoftware.com/sites/default/files/images/enter-logo.jpg" /></a>
+
+<p><a name="eurodata2000" id="eurodata2000"></a></p>
+<h3><a href="https://www.centrosoftware.com/eurodata-2000">Eurodata 2000</a></h3>
+<a href="https://www.centrosoftware.com/eurodata-2000"><img src="https://www.centrosoftware.com/sites/default/files/images/partner_eurodata2000.png" /></a>
+
+<p><a name="ferraris" id="ferraris"></a></p>
+<h3><a href="https://www.centrosoftware.com/ferraris-c">Ferraris &amp; C.</a></h3>
+<a href="https://www.centrosoftware.com/ferraris-c"><img src="https://www.centrosoftware.com/sites/default/files/images/partner_ferraris.png" /></a>
+
+<p><a name="Fusion" id="Fusion"></a></p>
+<h3><a href="https://www.centrosoftware.com/fusion-trade">Fusion Trade</a></h3>
+<a href="https://www.centrosoftware.com/fusion-trade"><img src="https://www.centrosoftware.com/sites/default/files/images/partner_fusion_trade.png" /></a>
+
+<p><a name="informa24" id="informa24"></a></p>
+<h3><a href="https://www.centrosoftware.com/informa-24">Informa24</a></h3>
+<a href="https://www.centrosoftware.com/informa-24"><img src="https://www.centrosoftware.com/sites/default/files/images/partner_informa_24_0.png" /></a>
+
+<p><a name="infotel" id="infotel"></a></p>
+<h3><a href="https://www.centrosoftware.com/infotel">Infotel </a></h3>
+<a href="https://www.centrosoftware.com/infotel"><img src="https://www.centrosoftware.com/sites/default/files/images/partner_infotel.png" /></a>
+
+<p><a name="innoova" id="innoova"></a></p>
+<h3><a href="https://www.centrosoftware.com/innoova">Innoova </a></h3>
+<a href="https://www.centrosoftware.com/innoova"><img src="https://www.centrosoftware.com/sites/default/files/images/partner_innoova_new.png" /></a>
+
+<p><a name="isc" id="isc"></a></p>
+<h3><a href="https://www.centrosoftware.com/isc">ISC Informatica Service Center </a></h3>
+<a href="https://www.centrosoftware.com/isc"><img src="https://www.centrosoftware.com/sites/default/files/images/partner_isc.png" /></a>
+
+<p><a name="kaisolution" id="kaisolution"></a></p>
+<h3><a href="https://www.centrosoftware.com/kai-solution">Kai Solution </a></h3>
+<a href="https://www.centrosoftware.com/kai-solution"><img src="https://www.centrosoftware.com/sites/default/files/images/partner_kai_solution.png" /></a>
+
+<p><a name="maccarini" id="maccarini"></a></p>
+<h3 style="margin-top: 0px; margin-bottom: 10px"><a href="https://www.centrosoftware.com/maccarini-marico-angelo-c">Maccarini Marico Angelo &amp; C.</a></h3>
+<a href="https://www.centrosoftware.com/maccarini-marico-angelo-c"><img src="https://www.centrosoftware.com/sites/default/files/images/partner_maccarini.png" /></a>
+
+<p><a name="magicstore" id="magicstore"></a></p>
+<h3><a href="https://www.centrosoftware.com/magicstore">MagicStore</a></h3>
+<a href="https://www.centrosoftware.com/magicstore"><img src="https://www.centrosoftware.com/sites/default/files/images/partner_magicstore.png" /></a>
+
+<p><a name="pinewoodconsulting" id="pinewoodconsulting"></a></p>
+<h3><a href="https://www.centrosoftware.com/pinewood-consulting">Pinewood Consulting</a></h3>
+<a href="https://www.centrosoftware.com/pinewood-consulting"><img src="https://www.centrosoftware.com/sites/default/files/images/partner_pinewood_consulting.png" /></a>
+
+<p><a name="progresinformatica" id="progresinformatica"></a></p>
+<h3><a href="https://www.centrosoftware.com/progres-informatica">Progres Informatica</a></h3>
+<a href="https://www.centrosoftware.com/progres-informatica"><img src="https://www.centrosoftware.com/sites/default/files/images/partner_progres_informatica.png" /></a>
+
+<p><a name="sefin" id="sefin"></a></p>
+<h3><a href="https://www.centrosoftware.com/sefin">Sefin</a></h3>
+<a href="https://www.centrosoftware.com/sefin"><img src="https://www.centrosoftware.com/sites/default/files/images/partner_sefin.png" /></a>
+
+<p><a name="sinergy" id="sinergy"></a></p>
+<h3><a href="/sinergy-studio">Sinergy Studio</a></h3>
+<a href="/sinergy-studio"><img src="https://www.centrosoftware.com/sites/default/files/images/partner_sinergy_studio.png" /></a>
+
+<p><a name="sintronic" id="sintronic"></a></p>
+<h3><a href="https://www.centrosoftware.com/sintronic">Sintronic</a></h3>
+<a href="https://www.centrosoftware.com/sintronic"><img src="https://www.centrosoftware.com/sites/default/files/images/partner_sintronic.png" /></a>
+
+<p><a name="sisolution" id="sisolution"></a></p>
+<h3><a href="https://www.centrosoftware.com/sisolution">SiSolution</a></h3>
+<a href="https://www.centrosoftware.com/sisolution"><img src="https://www.centrosoftware.com/sites/default/files/partner/RGB_2001.png" /></a>
+
+<p><a name="sys-dat-verona-srl" id="sys-dat-verona-srl"></a></p>
+<h3><a href="https://www.centrosoftware.com/sys-dat-verona-srl">Sys-Dat Verona S.R.L.</a></h3>
+<a href="https://www.centrosoftware.com/sys-dat-verona-srl"><img src="https://www.centrosoftware.com/sites/default/files/images/verona-sys-dat-group1.png" /></a>
+
+<p><a name="tad" id="tad"></a></p>
+<h3><a href="https://www.centrosoftware.com/tad">T.A.D.</a></h3>
+<a href="https://www.centrosoftware.com/tad"><img src="https://www.centrosoftware.com/sites/default/files/images/partner_tad.png" /></a>
+
+<p><a name="thema-software" id="thema-software"></a></p>
+<h3><a href="https://www.centrosoftware.com/thema-software">Thema Software</a></h3>
+<a href="https://www.centrosoftware.com/thema-software"><img src="https://www.centrosoftware.com/sites/default/files/images/partner_thema-software.png" /></a>
+
+<p><a name="ubiqua" id="ubiqua"></a></p>
+<h3><a href="https://www.centrosoftware.com/ubiqua">Ubiqua</a></h3>
+<a href="https://www.centrosoftware.com/ubiqua"><img src="https://www.centrosoftware.com/sites/default/files/images/partner_ubiqua.png" /></a>
+
+<p><a name="w4y" id="w4y"></a></p>
+<h3><a href="https://www.centrosoftware.com/w4y">W4Y</a></h3>
+<a href="https://www.centrosoftware.com/w4y"><img src="https://www.centrosoftware.com/sites/default/files/images/partner_w4y.png" /></a>
+
+<p><a id="x-soft" name="x-soft"></a></p>
+<h3><a href="https://www.centrosoftware.com/x-soft">X-Soft</a></h3>
+<a href="https://www.centrosoftware.com/x-soft"><img src="https://www.centrosoftware.com/sites/default/files/images/partner_x-soft.png" /></a>
+
+
+
+
+bp_alfa-service_text: <a href="https://www.centrosoftware.com/alfa-service">Alfa Service </a>
+bp_alfa-service_logo: <a href="https://www.centrosoftware.com/alfa-service"><img src="https://www.centrosoftware.com/sites/default/files/images/partner_alfaservice.png" /></a> 
+
+bp_analytic_text: <a href="https://www.centrosoftware.com/analytic">Analytic</a>
+bp_analytic_logo: <a href="https://www.centrosoftware.com/analytic"><img src="https://www.centrosoftware.com/sites/default/files/images/partner_analytic.png" /></a> 
+
+bp_Antys_text: <a href="https://www.centrosoftware.com/Antys">Antys</a>
+bp_Antys_logo: <a href="https://www.centrosoftware.com/Antys"><img src="https://www.centrosoftware.com/sites/default/files/images/partner_antys.png" /></a> 
+
+bp_axima_text: <a href="https://www.centrosoftware.com/axima">Axima</a>
+bp_axima_logo: <a href="https://www.centrosoftware.com/axima"><img src="https://www.centrosoftware.com/sites/default/files/images/partner_axima.png" /></a> 
+
+bp_bit-time-software_text: <a href="https://www.centrosoftware.com/bit-time-software">Bit Time Software</a>
+bp_bit-time-software_logo: <a href="https://www.centrosoftware.com/bit-time-software"><img src="https://www.centrosoftware.com/sites/default/files/images/cropped-logo_bittime_software_1024_364.png" /></a> 
+
+bp_bms-software_text: <a href="https://www.centrosoftware.com/bms-software">BMS Software</a>
+bp_bms-software_logo: <a href="https://www.centrosoftware.com/bms-software"><img src="https://www.centrosoftware.com/sites/default/files/partner/BMS-black.png" /></a> 
+
+bp_divinformatica_text: <a href="https://www.centrosoftware.com/divinformatica">D.I.V. Informatica</a>
+bp_divinformatica_logo: <a href="https://www.centrosoftware.com/divinformatica"><img src="https://www.centrosoftware.com/sites/default/files/images/partner_divinformatica.png" /></a> 
+
+bp_dse_text: <a href="https://www.centrosoftware.com/dse">D.S.E.</a>
+bp_dse_logo: <a href="https://www.centrosoftware.com/dse"><img src="https://www.centrosoftware.com/sites/default/files/images/partner_dse.png" /></a> 
+
+bp_datacom_text: <a href="https://www.centrosoftware.com/datacom">Datacom</a>
+bp_datacom_logo: <a href="https://www.centrosoftware.com/datacom"><img src="https://www.centrosoftware.com/sites/default/files/images/partner_datacom.png" /></a> 
+
+bp_delphi-studio-sl_text: <a href="https://www.centrosoftware.com/delphi-studio-sl">Delphi Studio SL</a>
+bp_delphi-studio-sl_logo: <a href="https://www.centrosoftware.com/delphi-studio-sl"><img src="https://www.centrosoftware.com/sites/default/files/partner/logo-Delphi-Studio-768x130.jpg" /></a> 
+
+bp_diesse_text: <a href="https://www.centrosoftware.com/diesse">Diesse </a>
+bp_diesse_logo: <a href="https://www.centrosoftware.com/diesse"><img src="https://www.centrosoftware.com/sites/default/files/images/partner_diesse.png" /></a> 
+
+bp_doee-consulting-srl_text: <a href="https://www.centrosoftware.com/doee-consulting-srl">Doee Consulting S.r.l.</a>
+bp_doee-consulting-srl_logo: <a href="https://www.centrosoftware.com/doee-consulting-srl"><img src="https://www.centrosoftware.com/sites/default/files/images/logo-doee-consulting.png" style="margin-top: 30px; margin-bottom: 30px;" /></a> 
+
+bp_empirical_text: <a href="https://www.centrosoftware.com/empirical">Empirical</a>
+bp_empirical_logo: <a href="https://www.centrosoftware.com/empirical"><img src="https://www.centrosoftware.com/sites/default/files/images/partner_empirical.png" /></a> 
+
+bp_enter_text: <a href="https://www.centrosoftware.com/enter">Enter</a>
+bp_enter_logo: <a href="https://www.centrosoftware.com/enter"><img src="https://www.centrosoftware.com/sites/default/files/images/enter-logo.jpg" /></a> 
+
+bp_eurodata-2000_text: <a href="https://www.centrosoftware.com/eurodata-2000">Eurodata 2000</a>
+bp_eurodata-2000_logo: <a href="https://www.centrosoftware.com/eurodata-2000"><img src="https://www.centrosoftware.com/sites/default/files/images/partner_eurodata2000.png" /></a> 
+
+bp_ferraris-c_text: <a href="https://www.centrosoftware.com/ferraris-c">Ferraris &amp; C.</a>
+bp_ferraris-c_logo: <a href="https://www.centrosoftware.com/ferraris-c"><img src="https://www.centrosoftware.com/sites/default/files/images/partner_ferraris.png" /></a> 
+
+bp_fusion-trade_text: <a href="https://www.centrosoftware.com/fusion-trade">Fusion Trade</a>
+bp_fusion-trade_logo: <a href="https://www.centrosoftware.com/fusion-trade"><img src="https://www.centrosoftware.com/sites/default/files/images/partner_fusion_trade.png" /></a> 
+
+bp_informa-24_text: <a href="https://www.centrosoftware.com/informa-24">Informa24</a>
+bp_informa-24_logo: <a href="https://www.centrosoftware.com/informa-24"><img src="https://www.centrosoftware.com/sites/default/files/images/partner_informa_24_0.png" /></a> 
+
+bp_infotel_text: <a href="https://www.centrosoftware.com/infotel">Infotel </a>
+bp_infotel_logo: <a href="https://www.centrosoftware.com/infotel"><img src="https://www.centrosoftware.com/sites/default/files/images/partner_infotel.png" /></a> 
+
+bp_innoova_text: <a href="https://www.centrosoftware.com/innoova">Innoova </a>
+bp_innoova_logo: <a href="https://www.centrosoftware.com/innoova"><img src="https://www.centrosoftware.com/sites/default/files/images/partner_innoova_new.png" /></a> 
+
+bp_isc_text: <a href="https://www.centrosoftware.com/isc">ISC Informatica Service Center </a>
+bp_isc_logo: <a href="https://www.centrosoftware.com/isc"><img src="https://www.centrosoftware.com/sites/default/files/images/partner_isc.png" /></a> 
+
+bp_kai-solution_text: <a href="https://www.centrosoftware.com/kai-solution">Kai Solution </a>
+bp_kai-solution_logo: <a href="https://www.centrosoftware.com/kai-solution"><img src="https://www.centrosoftware.com/sites/default/files/images/partner_kai_solution.png" /></a> 
+
+bp_maccarini-marico-angelo-c_text: <a href="https://www.centrosoftware.com/maccarini-marico-angelo-c">Maccarini Marico Angelo &amp; C.</a>
+bp_maccarini-marico-angelo-c_logo: <a href="https://www.centrosoftware.com/maccarini-marico-angelo-c"><img src="https://www.centrosoftware.com/sites/default/files/images/partner_maccarini.png" /></a> 
+
+bp_magicstore_text: <a href="https://www.centrosoftware.com/magicstore">MagicStore</a>
+bp_magicstore_logo: <a href="https://www.centrosoftware.com/magicstore"><img src="https://www.centrosoftware.com/sites/default/files/images/partner_magicstore.png" /></a> 
+
+bp_pinewood-consulting_text: <a href="https://www.centrosoftware.com/pinewood-consulting">Pinewood Consulting</a>
+bp_pinewood-consulting_logo: <a href="https://www.centrosoftware.com/pinewood-consulting"><img src="https://www.centrosoftware.com/sites/default/files/images/partner_pinewood_consulting.png" /></a> 
+
+bp_progres-informatica_text: <a href="https://www.centrosoftware.com/progres-informatica">Progres Informatica</a>
+bp_progres-informatica_logo: <a href="https://www.centrosoftware.com/progres-informatica"><img src="https://www.centrosoftware.com/sites/default/files/images/partner_progres_informatica.png" /></a> 
+
+bp_sefin_text: <a href="https://www.centrosoftware.com/sefin">Sefin</a>
+bp_sefin_logo: <a href="https://www.centrosoftware.com/sefin"><img src="https://www.centrosoftware.com/sites/default/files/images/partner_sefin.png" /></a> 
+
+bp_sinergy-studio_text: <a href="https://www.centrosoftware.com/sinergy-studio">Sinergy Studio</a>
+bp_sinergy-studio_logo: <a href="https://www.centrosoftware.com/sinergy-studio"><img src="https://www.centrosoftware.com/sites/default/files/images/partner_sinergy_studio.png" /></a> 
+
+bp_sintronic_text: <a href="https://www.centrosoftware.com/sintronic">Sintronic</a>
+bp_sintronic_logo: <a href="https://www.centrosoftware.com/sintronic"><img src="https://www.centrosoftware.com/sites/default/files/images/partner_sintronic.png" /></a> 
+
+bp_sisolution_text: <a href="https://www.centrosoftware.com/sisolution">SiSolution</a>
+bp_sisolution_logo: <a href="https://www.centrosoftware.com/sisolution"><img src="https://www.centrosoftware.com/sites/default/files/partner/RGB_2001.png" /></a> 
+
+bp_sys-dat-verona-srl_text: <a href="https://www.centrosoftware.com/sys-dat-verona-srl">Sys-Dat Verona S.R.L.</a>
+bp_sys-dat-verona-srl_logo: <a href="https://www.centrosoftware.com/sys-dat-verona-srl"><img src="https://www.centrosoftware.com/sites/default/files/images/verona-sys-dat-group1.png" /></a> 
+
+bp_tad_text: <a href="https://www.centrosoftware.com/tad">T.A.D.</a>
+bp_tad_logo: <a href="https://www.centrosoftware.com/tad"><img src="https://www.centrosoftware.com/sites/default/files/images/partner_tad.png" /></a> 
+
+bp_thema-software_text: <a href="https://www.centrosoftware.com/thema-software">Thema Software</a>
+bp_thema-software_logo: <a href="https://www.centrosoftware.com/thema-software"><img src="https://www.centrosoftware.com/sites/default/files/images/partner_thema-software.png" /></a> 
+
+bp_ubiqua_text: <a href="https://www.centrosoftware.com/ubiqua">Ubiqua</a>
+bp_ubiqua_logo: <a href="https://www.centrosoftware.com/ubiqua"><img src="https://www.centrosoftware.com/sites/default/files/images/partner_ubiqua.png" /></a> 
+
+bp_w4y_text: <a href="https://www.centrosoftware.com/w4y">W4Y</a>
+bp_w4y_logo: <a href="https://www.centrosoftware.com/w4y"><img src="https://www.centrosoftware.com/sites/default/files/images/partner_w4y.png" /></a> 
+
+bp_x-soft_text: <a href="https://www.centrosoftware.com/x-soft">X-Soft</a>
+bp_x-soft_logo: <a href="https://www.centrosoftware.com/x-soft"><img src="https://www.centrosoftware.com/sites/default/files/images/partner_x-soft.png" /></a> 
+
+
+
+
+{{ site.content.bp_alfa-service_text }}
+{{ site.content.bp_analytic_text }}
+{{ site.content.bp_Antys_text }}
+{{ site.content.bp_axima_text }}
+{{ site.content.bp_bit-time-software_text }}
+{{ site.content.bp_bms-software_text }}
+{{ site.content.bp_divinformatica_text }}
+{{ site.content.bp_dse_text }}
+{{ site.content.bp_datacom_text }}
+{{ site.content.bp_delphi-studio-sl_text }}
+{{ site.content.bp_diesse_text }}
+{{ site.content.bp_doee-consulting-srl_text }}
+{{ site.content.bp_empirical_text }}
+{{ site.content.bp_enter_text }}
+{{ site.content.bp_eurodata-2000_text }}
+{{ site.content.bp_ferraris-c_text }}
+{{ site.content.bp_fusion-trade_text }}
+{{ site.content.bp_informa-24_text }}
+{{ site.content.bp_infotel_text }}
+{{ site.content.bp_innoova_text }}
+{{ site.content.bp_isc_text }}
+{{ site.content.bp_kai-solution_text }}
+{{ site.content.bp_maccarini-marico-angelo-c_text }}
+{{ site.content.bp_magicstore_text }}
+{{ site.content.bp_pinewood-consulting_text }}
+{{ site.content.bp_progres-informatica_text }}
+{{ site.content.bp_sefin_text }}
+{{ site.content.bp_sinergy-studio_text }}
+{{ site.content.bp_sintronic_text }}
+{{ site.content.bp_sisolution_text }}
+{{ site.content.bp_sys-dat-verona-srl_text }}
+{{ site.content.bp_tad_text }}
+{{ site.content.bp_thema-software_text }}
+{{ site.content.bp_ubiqua_text }}
+{{ site.content.bp_w4y_text }}
+{{ site.content.bp_x-soft_text }}
+
