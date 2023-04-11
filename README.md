@@ -17,6 +17,7 @@
 -	[Interfacciamenti PDM (PDM Connector)](#interfacciamenti-pdm-pdm-connector)
 -	[Connettori verso Dipartimentali e Gestionali (KIT Connettore)](#connettori-verso-dipartimentali-e-gestionali-kit-connettore)
 -	[Sincronizzazione Basi Dati Go-Live (Sequencer)](#sincronizzazione-basi-dati-go-live-sequencer)
+- [Integrazioni con E-Commerce](#integrazioni-con-e-commerce)
 
 
 
@@ -112,9 +113,17 @@
 | **Libellula**      | Centro Software | {{ site.content.star1 }} |  | [&#x1f855;](https://github.com/centrosoftware-dev/Custom_Projects_Details/blob/main/contenuto_interf_libellula.md)|
 | **ALMA**  | Centro Software | {{ site.content.star1 }} |  | [&#x1f855;](https://github.com/centrosoftware-dev/Custom_Projects_Details/blob/main/contenuto_interf_alma.md)|
 
-
 (torna all'[indice](#indice))
 
+
+## Integrazioni con E-Commerce
+
+| Titolo | Owner | | | |
+| - | - | - | - | - |
+| **Prestashop** | {{ site.content.bp_w4y_text }} | {{ site.content.star1 }} | | |
+| **WooCommerce** | {{ site.content.bp_w4y_text }} | {{ site.content.star1 }} | | |
+
+(torna all'[indice](#indice))
 
 
 
