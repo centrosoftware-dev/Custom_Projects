@@ -25,17 +25,17 @@
 
 | Titolo | Owner | | | |
 | - | - | - | - | - |
-| **Importazione Cambi dalla Banca d'Italia**             | Centro Software | {{ site.content.star0 }} | [Scheda](./ant_cambibankitalia.md)           | [&#x1f855;](https://github.com/centrosoftware-dev/Custom_Projects_Details/blob/main/contenuto_cambibankitalia.md)|
-| **Gestione Corsi e Prenotazione Corsisti**              | Centro Software | {{ site.content.star0 }} | [Scheda](./ant_gestionecorsi.md)             | [&#x1f855;](https://github.com/centrosoftware-dev/Custom_Projects_Details/blob/main/contenuto_gestionecorsi.md) |
-| **Logica di Maggiorazione Calcolo MRP**                 | Centro Software | {{ site.content.star0 }} | [Scheda](./ant_maggiorazioneMRP.md)          | [&#x1f855;](https://github.com/centrosoftware-dev/Custom_Projects_Details/blob/main/contenuto_maggiorazioneMRP.md) |
-| **Simulatore Costi Industriali da Configuratore Costi** | Centro Software | {{ site.content.star0 }} | [Scheda](./ant_SimulatConfigurCosti.md)      | [&#x1f855;](https://github.com/centrosoftware-dev/Custom_Projects_Details/blob/main/contenuto_SimulatConfigurCosti.md) |
-| **Estensione Campi Personalizzati**                     | Centro Software | {{ site.content.star0 }} | [Scheda](./ant_campipersonalizzati.md)       | [&#x1f855;](https://github.com/centrosoftware-dev/Custom_Projects_Details/blob/main/contenuto_campipersonalizzati.md) |
-| **Gestione Contratti di Vendita**                       | Centro Software | {{ site.content.star0 }} | [Scheda](./ant_gestionecontrattivendita.md)  | [&#x1f855;](https://github.com/centrosoftware-dev/Custom_Projects_Details/blob/main/contenuto_gestionecontrattivendita.md) |
-| **Gestione Direttiva Reach**                            | Centro Software | {{ site.content.star0 }} | [Scheda](./ant_gestionedirettivaREACH.md)    | [&#x1f855;](https://github.com/centrosoftware-dev/Custom_Projects_Details/blob/main/contenuto_gestionedirettivaREACH.md) |
-| **Interfacciamento Piattaforma Logistica STEF**         | Centro Software | {{ site.content.star0 }} | [Scheda](./ant_interfacciaSTEF.md)           | [&#x1f855;](https://github.com/centrosoftware-dev/Custom_Projects_Details/blob/main/contenuto_interfacciaSTEF.md) |
-| **Gestione NUMOP a N. 9 Caratteri**                     | Centro Software | {{ site.content.star0 }} | [Scheda](./ant_numOP9.md)                    | [&#x1f855;](https://github.com/centrosoftware-dev/Custom_Projects_Details/blob/main/contenuto_numOP9.md) |
-| **Interfaccia INKMAKER 4.0**                            | Centro Software | {{ site.content.star0 }} | [Scheda](./ant_interfacciainkmaker.md)       | [&#x1f855;](https://github.com/centrosoftware-dev/Custom_Projects_Details/blob/main/contenuto_interfacciainkmaker.md) |
-| **Codificatore Automatico Articoli**                    | Centro Software | {{ site.content.star0 }} | [Scheda](./ant_condificatoreautomaticoart.md)| [&#x1f855;](https://github.com/centrosoftware-dev/Custom_Projects_Details/blob/main/contenuto_condificatoreautomaticoart.md) |
+| **Importazione Cambi dalla Banca d'Italia**             | Centro Software | {{ site.content.star1 }} | [Scheda](./ant_cambibankitalia.md)           | [&#x1f855;](https://github.com/centrosoftware-dev/Custom_Projects_Details/blob/main/contenuto_cambibankitalia.md)|
+| **Gestione Corsi e Prenotazione Corsisti**              | Centro Software | {{ site.content.star3 }} | [Scheda](./ant_gestionecorsi.md)             | [&#x1f855;](https://github.com/centrosoftware-dev/Custom_Projects_Details/blob/main/contenuto_gestionecorsi.md) |
+| **Logica di Maggiorazione Calcolo MRP**                 | Centro Software | {{ site.content.star2 }} | [Scheda](./ant_maggiorazioneMRP.md)          | [&#x1f855;](https://github.com/centrosoftware-dev/Custom_Projects_Details/blob/main/contenuto_maggiorazioneMRP.md) |
+| **Simulatore Costi Industriali da Configuratore Costi** | Centro Software | {{ site.content.star3 }} | [Scheda](./ant_SimulatConfigurCosti.md)      | [&#x1f855;](https://github.com/centrosoftware-dev/Custom_Projects_Details/blob/main/contenuto_SimulatConfigurCosti.md) |
+| **Estensione Campi Personalizzati**                     | Centro Software | {{ site.content.star1 }} | [Scheda](./ant_campipersonalizzati.md)       | [&#x1f855;](https://github.com/centrosoftware-dev/Custom_Projects_Details/blob/main/contenuto_campipersonalizzati.md) |
+| **Gestione Contratti di Vendita**                       | Centro Software | {{ site.content.star2 }} | [Scheda](./ant_gestionecontrattivendita.md)  | [&#x1f855;](https://github.com/centrosoftware-dev/Custom_Projects_Details/blob/main/contenuto_gestionecontrattivendita.md) |
+| **Gestione Direttiva Reach**                            | Centro Software | {{ site.content.star3 }} | [Scheda](./ant_gestionedirettivaREACH.md)    | [&#x1f855;](https://github.com/centrosoftware-dev/Custom_Projects_Details/blob/main/contenuto_gestionedirettivaREACH.md) |
+| **Interfacciamento Piattaforma Logistica STEF**         | Centro Software | {{ site.content.star2 }} | [Scheda](./ant_interfacciaSTEF.md)           | [&#x1f855;](https://github.com/centrosoftware-dev/Custom_Projects_Details/blob/main/contenuto_interfacciaSTEF.md) |
+| **Gestione NUMOP a N. 9 Caratteri**                     | Centro Software | {{ site.content.star1 }} | [Scheda](./ant_numOP9.md)                    | [&#x1f855;](https://github.com/centrosoftware-dev/Custom_Projects_Details/blob/main/contenuto_numOP9.md) |
+| **Interfaccia INKMAKER 4.0**                            | Centro Software | {{ site.content.star3 }} | [Scheda](./ant_interfacciainkmaker.md)       | [&#x1f855;](https://github.com/centrosoftware-dev/Custom_Projects_Details/blob/main/contenuto_interfacciainkmaker.md) |
+| **Codificatore Automatico Articoli**                    | Centro Software | {{ site.content.star2 }} | [Scheda](./ant_condificatoreautomaticoart.md)| [&#x1f855;](https://github.com/centrosoftware-dev/Custom_Projects_Details/blob/main/contenuto_condificatoreautomaticoart.md) |
 
 (torna all'[indice](#indice))
 
@@ -43,7 +43,7 @@
 
 | Titolo | Owner | | | |
 | - | - | - | - | - |
-| **Poliambulatori - soluzioni per gestione prenotazioni visite**             | {{ site.content.bp_progresinformatica_text }} | {{ site.content.star0 }} | [Scheda](./ant_progresinformatica_poliamb.md)           | |
+| **Poliambulatori - soluzioni per gestione prenotazioni visite**             | {{ site.content.bp_progresinformatica_text }} | {{ site.content.star3 }} | [Scheda](./ant_progresinformatica_poliamb.md)           | |
 
 
 (torna all'[indice](#indice))
@@ -109,9 +109,9 @@
 
 | Titolo | Owner | | | |
 | - | - | - | - | - |
-| **SigmaNEST**      | Centro Software | {{ site.content.star1 }} |  | [&#x1f855;](https://github.com/centrosoftware-dev/Custom_Projects_Details/blob/main/contenuto_interf_sigmanest.md)|
-| **Libellula**      | Centro Software | {{ site.content.star1 }} |  | [&#x1f855;](https://github.com/centrosoftware-dev/Custom_Projects_Details/blob/main/contenuto_interf_libellula.md)|
-| **ALMA**  | Centro Software | {{ site.content.star1 }} |  | [&#x1f855;](https://github.com/centrosoftware-dev/Custom_Projects_Details/blob/main/contenuto_interf_alma.md)|
+| **SigmaNEST**      | Centro Software | {{ site.content.star2 }} |  | [&#x1f855;](https://github.com/centrosoftware-dev/Custom_Projects_Details/blob/main/contenuto_interf_sigmanest.md)|
+| **Libellula**      | Centro Software | {{ site.content.star2 }} |  | [&#x1f855;](https://github.com/centrosoftware-dev/Custom_Projects_Details/blob/main/contenuto_interf_libellula.md)|
+| **ALMA**  | Centro Software | {{ site.content.star2 }} |  | [&#x1f855;](https://github.com/centrosoftware-dev/Custom_Projects_Details/blob/main/contenuto_interf_alma.md)|
 
 (torna all'[indice](#indice))
 
@@ -120,8 +120,8 @@
 
 | Titolo | Owner | | | |
 | - | - | - | - | - |
-| **Prestashop** | {{ site.content.bp_w4y_text }} | {{ site.content.star1 }} | | |
-| **WooCommerce** | {{ site.content.bp_w4y_text }} | {{ site.content.star1 }} | | |
+| **Prestashop** | {{ site.content.bp_w4y_text }} | {{ site.content.star2 }} | | |
+| **WooCommerce** | {{ site.content.bp_w4y_text }} | {{ site.content.star2 }} | | |
 
 (torna all'[indice](#indice))
 
