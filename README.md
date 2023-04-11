@@ -40,6 +40,11 @@
 
 ## Area CRM (Attività Prevendita e Assistenza Post-vendita)
 
+| Titolo | Owner | | | |
+| - | - | - | - | - |
+| **Importazione Cambi dalla Banca d'Italia**             | bp_progresinformatica_text | {{ site.content.star0 }} | [Scheda](./ant_cambibankitalia.md)           | [&#x1f855;](https://github.com/centrosoftware-dev/Custom_Projects_Details/blob/main/contenuto_cambibankitalia.md)|
+
+
 (torna all'[indice](#indice))
 
 ## Area Commerciale
@@ -98,6 +103,18 @@
 ## Sincronizzazione Basi Dati Go-Live (Sequencer)
 
 (torna all'[indice](#indice))
+
+## Interfacciamenti Nesting
+
+| Titolo | Owner | | | |
+| - | - | - | - | - |
+| **SigmaNEST**      | Centro Software | {{ site.content.star1 }} |  | [&#x1f855;](https://github.com/centrosoftware-dev/Custom_Projects_Details/blob/main/contenuto_interf_sigmanest.md)|
+| **Libellula**      | Centro Software | {{ site.content.star1 }} |  | [&#x1f855;](https://github.com/centrosoftware-dev/Custom_Projects_Details/blob/main/contenuto_interf_libellula.md)|
+| **ALMA**  | Centro Software | {{ site.content.star1 }} |  | [&#x1f855;](https://github.com/centrosoftware-dev/Custom_Projects_Details/blob/main/contenuto_interf_alma.md)|
+
+
+(torna all'[indice](#indice))
+
 
 
 
