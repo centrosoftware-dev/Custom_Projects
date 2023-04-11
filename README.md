@@ -42,7 +42,7 @@
 
 | Titolo | Owner | | | |
 | - | - | - | - | - |
-| **Importazione Cambi dalla Banca d'Italia**             | bp_progresinformatica_text | {{ site.content.star0 }} | [Scheda](./ant_cambibankitalia.md)           | [&#x1f855;](https://github.com/centrosoftware-dev/Custom_Projects_Details/blob/main/contenuto_cambibankitalia.md)|
+| **Poliambulatori - soluzioni per gestione prenotazioni visite**             | {{ bp_progresinformatica_text }} | {{ site.content.star0 }} | [Scheda](./ant_progresinformatica_poliamb.md)           | |
 
 
 (torna all'[indice](#indice))
