@@ -10,7 +10,7 @@
 - [Area Produzione](#area-produzione)
 - [Area Qualità](#area-qualità)
 - [Area Amministrativa e Finanziaria](#area-amministrativa-e-finanziaria)
-- [Area Contabilità analitica e Controllo di Gestione](#area-contabilità-analitica-e-controllo-di-gestione)
+- [Area Contabilità Analitica e Controllo di Gestione](#area-contabilità-analitica-e-controllo-di-gestione)
 - [Area Intercompany, Filiali Estere e Comunicazioni](#area-intercompany-filiali-estere-e-comunicazioni)
 - [Area Sicurezza e Strumenti di Sviluppo](#area-sicurezza-e-strumenti-di-sviluppo)
 -	[Interfacciamenti Magazzini Automatici (SyncroWH)](#interfacciamenti-magazzini-automatici-syncrowh)
@@ -63,7 +63,7 @@
 ## Area Amministrativa e Finanziaria
 
 (torna all'[indice](#indice))
-## Area Contabilità analitica e Controllo di Gestione
+## Area Contabilità Analitica e Controllo di Gestione
 
 (torna all'[indice](#indice))
 ## Area Intercompany, Filiali Estere e Comunicazioni
