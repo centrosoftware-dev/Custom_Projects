@@ -40,7 +40,7 @@ disponibilità dei macchinari utilizzati per le terapie (fisioterapie) o di diag
 -	Stampa del promemoria al paziente
 -	Invio promemoria al paziente tramite e- mail
 ![3](/img/progresinformatica/poliamb/3.png)
-![4](/img/progresinformatica/poliamb/4.png)
+![4](/img/progresinformatica/poliamb/4.jpg)
 
 
 ## FATTURAZIONE
