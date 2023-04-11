@@ -42,7 +42,7 @@
 
 | Titolo | Owner | | | |
 | - | - | - | - | - |
-| **Poliambulatori - soluzioni per gestione prenotazioni visite**             | {{ bp_progresinformatica_text }} | {{ site.content.star0 }} | [Scheda](./ant_progresinformatica_poliamb.md)           | |
+| **Poliambulatori - soluzioni per gestione prenotazioni visite**             | {{ site.content.bp_progresinformatica_text }} | {{ site.content.star0 }} | [Scheda](./ant_progresinformatica_poliamb.md)           | |
 
 
 (torna all'[indice](#indice))
