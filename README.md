@@ -18,7 +18,7 @@
 -	[Connettori verso Dipartimentali e Gestionali (KIT Connettore)](#connettori-verso-dipartimentali-e-gestionali-kit-connettore)
 -	[Sincronizzazione Basi Dati Go-Live (Sequencer)](#sincronizzazione-basi-dati-go-live-sequencer)
 - [Integrazioni con E-Commerce](#integrazioni-con-e-commerce)
-
+- [Verticali](#verticali)
 
 
 ## Area Work Flow e Dati Comuni
@@ -120,8 +120,18 @@
 
 | Titolo | Owner | | | |
 | - | - | - | - | - |
-| **Prestashop** | {{ site.content.bp_w4y_text }} | {{ site.content.star2 }} | | |
-| **WooCommerce** | {{ site.content.bp_w4y_text }} | {{ site.content.star2 }} | | |
+| **Prestashop** | {{ site.content.bp_w4y_text }} | {{ site.content.star2 }} | [Scheda](./ant_w4y_prestashop.md) | |
+| **WooCommerce** | {{ site.content.bp_w4y_text }} | {{ site.content.star2 }} | [Scheda](./ant_w4y_woocommerce.md) | |
+
+(torna all'[indice](#indice))
+
+
+## Verticali
+
+| Titolo | Owner | | | |
+| - | - | - | - | - |
+| **Oleifici** |  | {{ site.content.star0 }} | | |
+| **Vinerie** |  | {{ site.content.star0 }} | | |
 
 (torna all'[indice](#indice))
 
